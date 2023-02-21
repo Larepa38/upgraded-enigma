@@ -1,0 +1,35 @@
+body{
+    background-color: #f9f8fb;
+    background-image: url("data:image/svg+xml,%3Csvg width='40' height='1' viewBox='0 0 40 1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0h20v1H0z' fill='%2309686f' fill-opacity='0.16' fill-rule='evenodd'/%3E%3C/svg%3E");
+}
+header h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Dosis', sans-serif;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Sassy Frass', cursive;
+font-size: 500px;
+text-align: center;
+}
+
+.xd p{
+    font-family: 'Shantell Sans', cursive;
+    padding-left: 5%;
+    font-size: 350%;
+    text-align: justify;
+}
+
+.xd{
+    padding: 1%;
+    background-color: #c1c1c169;
+    margin: 10%;
+    display: flex;
+    -webkit-transition:-webkit-transform 0.4s ease-in-out 0.1s;
+}
+
+.xd img{
+    width: 25%;
+}
+
+.xd:hover{
+    -webkit-transform:scale(1.2);
+}
